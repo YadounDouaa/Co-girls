@@ -1,0 +1,245 @@
+*{
+	padding: 0;
+	margin: 0;
+	text-decoration: none;
+	box-sizing: border-box;
+}
+body{
+	font-family: montserrat;
+}
+nav{
+	background: #5D052D;
+	height: 80px;
+	width: 100%;
+}
+label.logo{
+	color: #FDFBF4;
+	font-size: 35px;
+	line-height: 80px;
+	padding: 0 100px;
+    font-weight: bold;
+}
+nav ul{
+	float: right;
+	margin-right: 20px;
+}
+nav ul li{
+	display: inline-block;
+	line-height: 80px;
+	margin: 0 5px;
+}
+nav ul li a{
+	color:#FDFBF4 ;
+	font-size:  17px;
+	padding: 7px 13px;
+	border-radius: 3px;
+	text-transform: uppercase;
+}
+a.active,a:hover
+{
+	background: #B01A5C;
+	opacity: 0.5;
+	transition: .5s;
+}
+section#ds
+{
+	color: #FDFBF4 ;
+	background:#5D052D;
+	right: 0px;
+	opacity: 0.6;
+	font-size: 1.7em;
+    position: absolute;
+    top:540px;
+    left: 890px;
+}
+img#slide
+{
+   width: 100%
+   height:auto;
+   margin-left: 0px;
+	margin-right: -120px;
+}
+div.desc
+{   
+	top: 900px;
+	background:#B01A5C;
+	opacity: 0.6; 
+	position: absolute;
+	font-size: 1.2em;
+	margin-left: 650px;
+}
+div.ss
+{
+	top: 1200px;
+	margin-left: 60px;
+	margin-top: 10px;
+	font-size: 1.2em;
+	position: absolute;
+}
+div.oranciti
+{
+	top: 1350px;
+	margin-left: 60px;
+	margin-top: 10px;
+	font-size: 1.2em;
+	position: absolute;
+}
+img#price
+{
+	width: 350px;
+	height: 250px;
+	margin-top: 50px;
+	margin-left: 800px;
+}
+div.public
+{
+	top: 1780px;
+	margin-left: 60px;
+	margin-top: 10px;
+	font-size: 1.2em;
+	position: absolute;
+}
+img#speaking
+{
+	width: 350px;
+	height: 250px;
+	margin-left: 800px;
+	margin-top: 40px;
+}
+div.khotwa
+{
+	top: 2180px;
+	margin-left: 60px;
+	margin-top: 10px;
+	font-size: 1.2em;
+	position: absolute;
+}
+img#kh
+{
+	height: 250px;
+	margin-left: 800px;
+	margin-top:40px;
+}
+div.Team
+{
+	top: 2680px;
+	margin-left: 60px;
+	margin-top: 10px;
+	font-size: 1.2em;
+	position: absolute;
+}
+img#Management
+{
+	height: 250px;
+	width: 400px;
+	margin-top: 40px;
+	margin-left: 750px;
+    margin-right: 10px;
+}
+div.dd
+{
+	top: 3280px;
+	margin-left: 760px;
+	margin-top: 150px;
+	font-size: 1.7em;
+	position: absolute;
+}
+img#D
+{
+	height: 200px;
+	width: 500px;
+	margin-top: 40px;
+	margin-left: 50px;
+    
+}
+div.F
+{
+	top: 3580px;
+	margin-left: 250px;
+	margin-top:150px;
+	font-size: 1.7em;
+	position: absolute;
+}
+
+img#RF
+{
+	height: 350px;
+	width: 450px;
+	margin-top: 40px;
+	margin-left: 850px;
+    
+}
+div.ines
+{
+	top: 3980px;
+	margin-left: 750px;
+	margin-top:150px;
+	font-size: 1.7em;
+	position: absolute;
+}
+
+img#zemali
+{
+	height: 300px;
+	width: 450px;
+	margin-top: 40px;
+	margin-left: 50px;
+    
+}
+
+div.nr
+{
+	top: 4280px;
+	margin-left: 250px;
+	margin-top: 150px;
+	font-size: 1.7em;
+	position: absolute;
+}
+img#youcefi
+{
+	height: 300px;
+	width: 450px;
+	margin-left: 850px;
+	margin-top: 40px;
+}
+div.nada
+{
+	top: 4580px;
+	margin-left: 750px;
+	margin-top: 200px;
+	font-size: 1.7em;
+	position: absolute;
+}
+img#iftene
+{
+	height: 300px;
+	width: 450px;
+	margin-left: 50px;
+	margin-top: 40px;
+}
+section#Contact
+{
+	margin-top: 120px;     
+      width:100%;
+      height: 200px;
+
+}
+
+footer {
+    width: 100%;
+    height: 80px;
+    background:#5D052D ;
+    position: absolute;
+    top: 5300px;
+    
+}
+
+	
+p#Club {
+    text-align: center;
+    color: white;
+    margin-top: 32px;
+    font-size: 1.5em;
+    margin-top: 25px;
+}
+
